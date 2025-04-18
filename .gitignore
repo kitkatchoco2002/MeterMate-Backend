@@ -1,7 +1,0 @@
-# Ignore everything
-/*
-
-# But don't ignore these:
-!.gitignore
-!package.json
-!server.js
